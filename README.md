@@ -1,8 +1,8 @@
-### Hi there 👋 my name is Ermias Asmare - Bachelor Graduate in Information Technology from Addis Ababa institute of technology (AAiT)
+### Hi there 👋 my name is Ermias Asmare
 
 #### Stuff about me 
-
-- 🔭 I’m currently working as a Freelance Full stack web and mobile up developer with 2 years expiernce 
+- 🔭 I’m currently working as a Freelance Full stack Web app developer with 2 years expiernce
+-  Graduated with BA degree from the university of Addis Ababa institute of technology (AAiT) in Information Technology   
 - 💬 Ask me about anything related to Backend and frontend development
 - 📫 How to reach me: it.ermias.asmare@gmail.com
-- my interest is in the area of web amd mobile app development,
+- my interest is in the area of Web app development,
